@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.8c27c62f.chunk.css",
+    "main.js": "/react1/static/js/main.e2de3578.chunk.js",
+    "main.js.map": "/react1/static/js/main.e2de3578.chunk.js.map",
+    "runtime-main.js": "/react1/static/js/runtime-main.2fb08cee.js",
+    "runtime-main.js.map": "/react1/static/js/runtime-main.2fb08cee.js.map",
+    "static/js/2.0a57a6d4.chunk.js": "/react1/static/js/2.0a57a6d4.chunk.js",
+    "static/js/2.0a57a6d4.chunk.js.map": "/react1/static/js/2.0a57a6d4.chunk.js.map",
+    "index.html": "/react1/index.html",
+    "precache-manifest.f568b0c47fcfb97fc92fbad1668d15d4.js": "/react1/precache-manifest.f568b0c47fcfb97fc92fbad1668d15d4.js",
+    "service-worker.js": "/react1/service-worker.js",
+    "static/css/main.8c27c62f.chunk.css.map": "/react1/static/css/main.8c27c62f.chunk.css.map",
+    "static/js/2.0a57a6d4.chunk.js.LICENSE.txt": "/react1/static/js/2.0a57a6d4.chunk.js.LICENSE.txt",
+    "static/media/OIPUG9FRDB7.jpg": "/react1/static/media/OIPUG9FRDB7.32a34e5e.jpg",
+    "static/media/Pop-Smoke-2.jpg": "/react1/static/media/Pop-Smoke-2.23bc387f.jpg",
+    "static/media/Screen-Shot-2019-08-14-at-3.44.09-PM.png": "/react1/static/media/Screen-Shot-2019-08-14-at-3.44.09-PM.1e3a922d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb08cee.js",
+    "static/js/2.0a57a6d4.chunk.js",
+    "static/css/main.8c27c62f.chunk.css",
+    "static/js/main.e2de3578.chunk.js"
+  ]
+}
